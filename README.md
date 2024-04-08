@@ -3,14 +3,14 @@ This project is a Graphical User Interface that generates random passwords and p
 
 # Functionalities
 
-1. Generating a Password:
+## Generating a Password:
    - The user can select the character types: uppercase letters, lowercase letters, numbers, or symbols.
    - The user can select the desired length of the password.
    - A password character list is generated based on the user's answers, which is a string containing the chosen characters.
    - Random characters from the password character list are selected and combined to form a completely random string according to the user's preferences.
    - The randomly generated password can be masked or displayed on the GUI
 
-3. Checking the Password's Score and Strength:
+## Checking the Password's Score and Strength:
    
 The score check is based on the following criteria:
    - The total number of characters
