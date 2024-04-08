@@ -1,6 +1,4 @@
 # Random-Password-Generator
-Random Password Generator and password scoring system
-
 This project is a Graphical User Interface that generates random passwords and perform password strength checks.
 
 # Functionalities
